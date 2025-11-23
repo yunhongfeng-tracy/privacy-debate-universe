@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>服务协议 Service Agreement</title>
+<style>
+    body {
+        font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial,
+            sans-serif;
+        max-width: 900px;
+        margin: 2rem auto;
+        padding: 1rem;
+        line-height: 1.7;
+        color: #333;
+    }
+    h1, h2, h3 {
+        color: #000;
+    }
+    hr {
+        margin: 2rem 0;
+        border: none;
+        border-top: 1px solid #ddd;
+    }
+</style>
+</head>
+
+<body>
+
+<h1>服务协议</h1>
+<p><strong>最后更新：2025-11-23</strong></p>
+
+<p>欢迎使用“辩论小宇宙”（以下简称“本应用”）。请在使用前仔细阅读本协议，一旦使用或继续使用，即表示你已同意全部条款。</p>
+
+<h2>1. 适用范围与服务说明</h2>
+<ul>
+    <li>本应用提供保险话题的 AI 辩论模拟、用户画像评论、调试信息展示、历史记录保存等功能。</li>
+    <li>本应用不提供金融、保险销售或投资建议，所有内容仅供参考。</li>
+</ul>
+
+<h2>2. 账户与使用</h2>
+<ul>
+    <li>当前支持游客模式；手机号登录暂未开放或处于开发/测试阶段。</li>
+    <li>你应对使用本应用的行为负责，不得用于违法、侵权或其他不当用途。</li>
+    <li>如发现账号或设备标识异常使用，请及时停止操作并通过应用内反馈联系我们。</li>
+    <li><strong>未成年人保护</strong>：本应用不面向未满13周岁的未成年人。如你为未成年人，请在监护人指导下使用，并避免输入任何个人信息。本应用不会主动收集未成年人的信息。如监护人认为未成年人在未经许可的情况下使用本应用，请及时联系我们处理。</li>
+</ul>
+
+<h2>3. 模型内容与责任</h2>
+<ul>
+    <li>模型生成的辩论、观点或评论基于算法推断，可能出现不准确、过时、偏差、逻辑错误或不适当内容。</li>
+    <li>本应用不保证模型内容的真实性、可靠性、完整性或适用性。你应自行判断并承担使用相关内容产生的全部风险，本应用及开发者不对因依赖模型内容所造成的任何损失负责。</li>
+</ul>
+
+<h2>4. 数据与存储</h2>
+<ul>
+    <li>你输入的辩题、用户画像配置和本地历史记录存储于设备本地；请求内容会通过后端代理转发至模型服务商。</li>
+    <li>请避免输入个人敏感信息，如因自行输入造成影响，由你自行承担。</li>
+</ul>
+
+<h2>5. 权限与终端</h2>
+<ul>
+    <li>保存历史长图时需相册写入权限，拒绝授权不影响其他功能。</li>
+    <li>本应用不要求通讯录、定位等与核心功能无关的权限。</li>
+</ul>
+
+<h2>6. 禁止性规定</h2>
+<ul>
+    <li>禁止利用本应用从事违法违规、侵权、恶意攻击、传播垃圾信息等行为。</li>
+    <li>禁止对应用或后端接口进行逆向、抓取、批量滥用或绕过安全措施。</li>
+</ul>
+
+<h2>7. 服务变更与中止</h2>
+<ul>
+    <li>我们可能基于法律、风险控制、模型更新、技术升级或其他合理原因，对功能、模型、接口或部署环境进行调整、升级、中止或限制访问，合理可行范围内将通知。</li>
+    <li>继续使用视为接受变更；如需中止服务，我们将按法律法规或实际可行方式进行通知。</li>
+</ul>
+
+<h2>8. 免责声明</h2>
+<ul>
+    <li>本应用按“现状”提供，不保证服务连续性、无错误性或适用于特定目的。</li>
+    <li>因你输入内容不当、依赖模型输出、设备或网络异常、第三方服务故障、不可抗力导致的损失，本应用不承担责任。用户应自行确保网络与设备安全。</li>
+</ul>
+
+<h2>9. 协议更新</h2>
+<p>我们可能根据法律法规或业务需要更新本协议，更新后在应用内展示或提示，继续使用即视为同意更新条款。</p>
+
+<h2>10. 联系与反馈</h2>
+<p>如有疑问或反馈，请通过应用内“服务协议/隐私声明”入口或反馈渠道与我们联系，或发送邮件至：<br>
+<strong>yunhongfeng@gmail.com</strong></p>
+
+<hr />
+
+<h1>Service Agreement (English)</h1>
+<p><strong>Last updated: 2025-11-23</strong></p>
+
+<h2>1. Scope & Services</h2>
+<ul>
+    <li>The App provides AI-powered insurance debate simulation, persona-based comments, status display, and history saving.</li>
+    <li>The App does not offer financial/insurance sales or advice; all content is for reference only.</li>
+</ul>
+
+<h2>2. Account & Use</h2>
+<ul>
+    <li>Guest mode is supported; phone login is under development/testing.</li>
+    <li>You are responsible for lawful use; do not use the App for illegal, infringing, or improper purposes.</li>
+    <li>If you notice abnormal use of your account/device ID, stop using and contact us in-app.</li>
+</ul>
+
+<h2>Minors</h2>
+<ul>
+    <li>This App is not intended for users under 13. If you are a minor, please use the App under the supervision of a guardian and avoid submitting personal information.</li>
+    <li>We do not knowingly collect data from minors. If a guardian believes a minor has used the App without permission, please contact us for remediation.</li>
+</ul>
+
+<h2>3. Model Content & Responsibility</h2>
+<ul>
+    <li>AI-generated debate/comment content may be inaccurate, outdated, or biased; please judge on your own.</li>
+    <li>Generated content does not represent the App or developers; we are not liable for decisions or losses based on it.</li>
+</ul>
+
+<h2>AI Content & Responsibility (Enhanced)</h2>
+<ul>
+    <li>AI-generated debates, comments, and opinions are produced algorithmically and may be inaccurate, outdated, biased, illogical, or inappropriate.</li>
+    <li>We make no warranties regarding their accuracy, reliability, completeness, or suitability.</li>
+    <li>You assume full responsibility for any decisions or actions based on such content; the App and developers are not liable for resulting losses.</li>
+</ul>
+
+<h2>4. Data & Storage</h2>
+<ul>
+    <li>Local: your topics, persona configs, and histories are stored on-device; you can delete them in-app.</li>
+    <li>Requests are proxied to model providers; avoid entering sensitive information.</li>
+</ul>
+
+<h2>5. Permissions</h2>
+<ul>
+    <li>Photo library write is requested only when saving a debate poster; denying it does not affect other features.</li>
+    <li>No access to contacts, location, etc., unrelated to core functions.</li>
+</ul>
+
+<h2>6. Prohibited Uses</h2>
+<ul>
+    <li>No illegal, infringing, malicious, spam, or abusive behavior.</li>
+    <li>No reverse engineering, scraping, bulk abuse, or bypassing security controls.</li>
+</ul>
+
+<h2>7. Changes & Suspension</h2>
+<ul>
+    <li>Features/models/endpoints may change or be suspended; continued use means acceptance of changes.</li>
+    <li>If service is stopped, we will notify as legally or technically feasible.</li>
+</ul>
+
+<h2>Changes & Suspension (Enhanced)</h2>
+<ul>
+    <li>We may modify, suspend, or restrict access to the services for legal, risk control, model updates, technical reasons, or other reasonable causes.</li>
+    <li>Where feasible, notice will be provided; continued use means acceptance.</li>
+</ul>
+
+<h2>8. Disclaimer</h2>
+<ul>
+    <li>We are not liable for interruptions, data loss, or content deviations caused by network, devices, third parties (e.g., model providers), or force majeure.</li>
+    <li>You are responsible for your device/network security.</li>
+</ul>
+
+<h2>Disclaimer (Enhanced)</h2>
+<ul>
+    <li>The App is provided “as is,” without warranties of uninterrupted availability, error-free operation, or fitness for a particular purpose.</li>
+    <li>We are not liable for losses caused by improper user inputs, reliance on model outputs, device or network issues, third-party failures, or force majeure.</li>
+</ul>
+
+<h2>9. Updates</h2>
+<p>We may update this Agreement per laws or business needs; updates will be shown in-app. Continued use means acceptance.</p>
+
+<h2>10. Contact</h2>
+<p>For questions or feedback, use the in-app “Service Agreement / Privacy Policy” entry or feedback channel.</p>
+
+</body>
+</html>
